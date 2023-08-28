@@ -186,13 +186,7 @@ https://github.com/TheMostafax/My_Anime_App/assets/81190585/b1b5c1c5-928d-4641-a
 
 <hr>
 
-<h3 align="center">Help page</h3>
 
-
-![help page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/8ee79e3d-73cd-4dd4-a9c6-f299b5c5c408)
-
-
-<hr>
 
 
 <h3 align="center">Device Preview: iPhone 12 mini </h3>
@@ -209,7 +203,7 @@ https://github.com/TheMostafax/My_Anime_App/assets/81190585/b1b5c1c5-928d-4641-a
 <hr>
 
 ## Author
-**Mostafa Hassan**
+**Jasmeet sethi**
 
 ## Getting Started
 
@@ -218,7 +212,7 @@ https://github.com/TheMostafax/My_Anime_App/assets/81190585/b1b5c1c5-928d-4641-a
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/TheMostafax/My_Anime_App.git my_anime_app
+    $ git clone https://github.com/jasmeet15069/Jixone-Anime-flutter-app.git my_anime_app
     $ cd my_anime_app/
     $ flutter packages get
     $ flutter run
@@ -230,9 +224,6 @@ In the command terminal, run the following commands:
 <hr>
 
 <p align="center">
-  
-
-![app](https://github.com/TheMostafax/My_Anime_App/assets/81190585/db9c52e4-89c3-439c-84e2-5100219fa8bf)
 
 
 </p>
